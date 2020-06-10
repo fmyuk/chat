@@ -1,8 +1,8 @@
 package com.example.chat.web.form;
 
-import com.sun.istack.NotNull;
 import lombok.Data;
 
+import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 import java.util.List;
 
